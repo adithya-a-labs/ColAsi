@@ -1,0 +1,10 @@
+{
+  "name": "ColAsi Academic OS",
+  "short_name": "ColAsi",
+  "description": "A cozy academic operating system for attendance, timetable, syllabus and deadlines.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#161412",
+  "theme_color": "#161412",
+  "icons": []
+}
